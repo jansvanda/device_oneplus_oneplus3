@@ -57,19 +57,19 @@
     <!-- Gesture shortcuts -->
     <string name="screen_gestures_panel_title">OnePlus Gestures</string>
     <string name="gestures_dashboard_summary">Gestures specific to OnePlus devices</string>
-    <string name="app_name">Oneplus Special Features</string>
+    <string name="app_name">OnePlus Special Features</string>
 
     <!-- New Options -->
-    <string name="device_extras">Oneplus Shit</string>
+    <string name="device_extras">OnePlus Special Features</string>
     <string name="graphics_title">Graphics</string>
     <string name="category_vibrator">Vibrator</string>
     <string name="vib_strength_title_head">Strength</string>
     <string name="vib_strength_summary_head">Define the strength of the vibrator</string>
-    <string name="srgb_mode_summary"></string>
+    <string name="srgb_mode_summary">standard Red Green Blue</string>
     <string name="srgb_mode_title">sRGB mode</string>
     <string name="hbm_mode_summary"></string>
     <string name="hbm_mode_title">High brightness mode</string>
-    <string name="dci_mode_summary"></string>
+    <string name="dci_mode_summary">Also known as DCI-P3</string>
     <string name="dci_mode_title">Wide color gamut mode</string>
     <string name="display_category">Display</string>
     <string name="device_doze_title">Ambient Display</string>
