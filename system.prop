@@ -33,7 +33,7 @@ debug.gralloc.enable_fb_ubwc=1
 dev.pm.dyn_samplingrate=1
 persist.demo.hdmirotationlock=false
 sdm.debug.disable_skip_validate=1
-ro.sf.lcd_density=480
+ro.sf.lcd_density=449
 
 #ifdef VENDOR_EDIT
 #liuhuisheng@OnePlus 20171016 for input
@@ -206,4 +206,8 @@ persist.data.iwlan.enable=true
 persist.vendor.radio.data_ltd_sys_ind=1
 persist.vendor.radio.data_con_rprt=1
 persist.radio.efssync=true
+
+#To save the data preference for double sim
+persist.radio.aosp_usr_pref_sel=true
+
 #end
